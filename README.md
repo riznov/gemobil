@@ -1,4 +1,3 @@
 # gemobil
 mantab
 
-kontol
